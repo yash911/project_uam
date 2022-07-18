@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T12:37:32.188Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="4h2dsJ4Wr88etjIJcu8H" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-18T12:39:53.307Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="XPc5CPsigQCIY4OVxAWL" version="20.0.4" type="github" pages="7">
   <diagram id="6mWBmpzyne5zolIO7Vtc" name="Page-1">
     <mxGraphModel dx="1020" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-3" id="01fSm6vx-I5DZeNX_1St">
-    <mxGraphModel dx="1020" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yctWomOaJTog4woDI0UR-0" />
         <mxCell id="yctWomOaJTog4woDI0UR-1" parent="yctWomOaJTog4woDI0UR-0" />
@@ -228,8 +228,8 @@
         <mxCell id="yctWomOaJTog4woDI0UR-13" value="q2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yctWomOaJTog4woDI0UR-1">
           <mxGeometry x="820" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yctWomOaJTog4woDI0UR-14" value="Q = { q0, q1, q2 }&lt;br style=&quot;font-size: 22px;&quot;&gt;qf -&amp;gt; Final state&lt;br style=&quot;font-size: 22px;&quot;&gt;q1 -&amp;gt; Dead state" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=22;" vertex="1" parent="yctWomOaJTog4woDI0UR-1">
-          <mxGeometry x="140" y="240" width="190" height="90" as="geometry" />
+        <mxCell id="yctWomOaJTog4woDI0UR-14" value="Q = { q0, q1, q2 }&lt;br style=&quot;font-size: 22px;&quot;&gt;qf -&amp;gt; Final state&lt;br style=&quot;font-size: 22px;&quot;&gt;q0, q1 -&amp;gt; Dead states" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=22;" vertex="1" parent="yctWomOaJTog4woDI0UR-1">
+          <mxGeometry x="140" y="240" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="yctWomOaJTog4woDI0UR-17" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;q2&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="yctWomOaJTog4woDI0UR-1">
           <mxGeometry x="830" y="55" width="100" height="70" as="geometry" />
