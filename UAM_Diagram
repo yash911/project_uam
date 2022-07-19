@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T12:39:53.307Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="XPc5CPsigQCIY4OVxAWL" version="20.0.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-07-19T04:42:15.400Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="J9AdAi4SD_EZ1BSHLVtO" version="20.0.4" type="github" pages="8">
   <diagram id="6mWBmpzyne5zolIO7Vtc" name="Page-1">
     <mxGraphModel dx="1020" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -200,7 +200,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Page-3" id="01fSm6vx-I5DZeNX_1St">
-    <mxGraphModel dx="1020" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yctWomOaJTog4woDI0UR-0" />
         <mxCell id="yctWomOaJTog4woDI0UR-1" parent="yctWomOaJTog4woDI0UR-0" />
@@ -242,6 +242,43 @@
         </mxCell>
         <mxCell id="woygWOhcUku8UP0Ujij7-3" value="qf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="yctWomOaJTog4woDI0UR-1">
           <mxGeometry x="910" y="130" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="1Mr7s_c-fUgboOqwUYqi" name="Page-8">
+    <mxGraphModel dx="1020" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="caw148G_8d2HgxhUJs6F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="caw148G_8d2HgxhUJs6F-1" target="caw148G_8d2HgxhUJs6F-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-1" value="Sentence Generator" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-2" value="1. Voice to Text&lt;br&gt;2. Something else" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=22;" edge="1" parent="1" source="caw148G_8d2HgxhUJs6F-4" target="caw148G_8d2HgxhUJs6F-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;dashed=1;strokeWidth=3;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="410" y="195" width="195" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-5" value="Gate Keeper / Parser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="433.75" y="230" width="147.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;" edge="1" parent="1" source="caw148G_8d2HgxhUJs6F-6" target="caw148G_8d2HgxhUJs6F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-6" value="Production Rules" style="ellipse;whiteSpace=wrap;html=1;fontSize=22;strokeWidth=1;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="438.75" y="480" width="137.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="caw148G_8d2HgxhUJs6F-11" value="&lt;span style=&quot;&quot;&gt;Accept / Reject&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="710" y="250" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
